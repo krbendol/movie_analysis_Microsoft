@@ -23,11 +23,18 @@ Below is a list of the contents of this repository - instructions for using them
 ### Create a new Github repository. 
 If you are working in a group, only one member of your team should complete these steps.
 
+<<<<<<< HEAD
 1. Click[this link](https://github.com/new) and set up a new Github  Repository.
    - Give your repository a name that is descriptive of the project. (You can change this later if think of a better name)
    - Set the repository to private
+=======
+1. Click [this link](https://github.com/new) and set up a new Github  Repository.
+   - Give your repository a name that is descriptive of the project. (You can change this later if you think of a better name)
+   - Set the repository to public
+>>>>>>> kam
    - Skip the `Initialize this repository with` section.
    - Click `Create Repository`
+   - Set your group members as collaboators.
 
 2. Clone the repository you created in step 1
    - Click the green code button
