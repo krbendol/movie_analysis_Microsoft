@@ -23,7 +23,7 @@ Below is a list of the contents of this repository - instructions for using them
 ### Create a new Github repository. 
 If you are working in a group, only one member of your team should complete these steps.
 
-1. Click [this link](https://github.com/new) and set up a new Github  Repository.
+1. Click[this link](https://github.com/new) and set up a new Github  Repository.
    - Give your repository a name that is descriptive of the project. (You can change this later if think of a better name)
    - Set the repository to private
    - Skip the `Initialize this repository with` section.
